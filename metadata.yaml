@@ -1,11 +1,16 @@
 _repo: The-Art-of-Theatrical-Make-up_56617
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56617-h/images/cover.jpg
 creator:
   author:
     agent_name: Morton, Cavendish
     gutenberg_agent_id: '48949'
     url: http://www.gutenberg.org/2009/agents/48949
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56617#The-Art-of-Theatrical-Make-up
 gutenberg_issued: '2018-02-21'
 gutenberg_type: Text
 identifiers:
